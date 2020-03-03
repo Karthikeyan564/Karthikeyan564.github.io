@@ -40,7 +40,7 @@ body{
     min-height: 80vh;
     color:#7b7b7b;
     background-image: url("../images/re3.jpg");
-    padding: 25% 50% 1% 12%;
+    padding: 20% 50% 1% 12%;
 }
 .fly{
     position: relative;
@@ -63,7 +63,7 @@ body{
     font-size: 300%;
     font-family: "Cus";
     font-weight:bold;
-    padding: 25% 50% 1% 12%;
+    padding: 20% 50% 1% 12%;
 }
 #sep{
     background-color: #f4f4f4;
