@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "Cus";
+    src:url("../fonts/evo.otf");
+}
+@font-face {
+    font-family: "Cuso";
+    src:url("../fonts/wevo.otf");
+}
+body{
+    margin: 0;
+    background-color:#eacdcf;
+    border-color: aqua;
+   
+}
+.im{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 300%;
+    font-family: "Cus";
+    font-weight:bold;
+}
+#d{
+    background-position: center;
+    position: relative;
+    min-height: 80vh;
+    color:white;
+    background-image: url("../images/a.jpg");
+
+}
+#intro{
+    position: relative;
+    width:60vh;
+    top:25vh;
+    left:12vw;
+}
+.d1{
+    height:40vh;
+    background-color: white;
+}
+#d2{
+    background-position:bottom;
+    min-height: 80vh;
+    color:#7b7b7b;
+    background-image: url("../images/re3.jpg");
+}
+.fly{
+    position: relative;
+    width:60vh;
+    top:40vh;
+    left:17vw;
+    text-align:center;
+}
+.wr{
+    font-family: Cuso;
+    text-align:center;
+    position:relative;
+    top:13vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    letter-spacing: 1px;
+    font-size:20px
+}
+.d3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:bottom;
+    min-height: 80vh;
+    color:white;
+    background-image: url("../images/rend.jpg");
+    font-size: 300%;
+    font-family: "Cus";
+    font-weight:bold;
+}
+#sep{
+    background-color: #f4f4f4;
+    font-size: 300%
+}
+#se{
+    font-family: Cuso;
+    text-align:center;
+    position:relative;
+    top:13vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    letter-spacing: 1px;
+    font-size:40px
+}
+#jo2{
+    background-image: url("../images/mat.jpg");
+}
+#jo3{
+    background-image: url("../images/ref.jpg");
+    color:WHITE;
+}
