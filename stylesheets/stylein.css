@@ -24,7 +24,7 @@ body{
 #d{
     background-position: center;
     position: relative;
-    min-height: 80vh;
+    min-height: 100vh;
     color:white;
     background-image: url("../images/a.jpg");
     padding: 15% 40% 1% 12%;
@@ -81,6 +81,9 @@ body{
 #jo3{
     background-image: url("../images/ref.jpg");
 }
+
+
+
 @media only screen and (max-device-width: 700px) {
     .d3, .im{
         background-attachment: scroll;
